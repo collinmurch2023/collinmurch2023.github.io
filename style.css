@@ -115,8 +115,6 @@ iframe {
 
 .about {
     display: inline-flex;
-    text-align: center;
-    justify-content: center;
     font-size: 1.5vw;
     width: 90%;
     background: rgba(0, 0, 0, .4);
