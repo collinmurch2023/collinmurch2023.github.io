@@ -71,10 +71,6 @@ a:hover:after {
     border-radius: 20px;
 }
 
-.contact {
-    text-align: center;
-}
-
 .form {
     display: flex;
     justify-content: center;
